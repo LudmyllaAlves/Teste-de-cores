@@ -1,0 +1,84 @@
+h1{
+    color: #544040;
+}
+body{
+    background-color: #D3D3D3;
+}
+table{
+    background-color:#DDA0DD; 
+    color:#8B008B ;
+    border-color:#8B008B;
+    border-style: ridge;
+    width: 70%;
+    margin-top: 20px;
+    table-layout: fixed;
+    margin-left: auto;
+    margin-right: auto;
+}
+th{
+    background-color: #8B008B;
+    color:#DDA0DD ;
+}
+td{
+    font-weight:bold;
+    border: 1px solid #ccc;
+}
+.tabela{
+    text-align: center;
+}
+.linha{
+    background-color: #073200;
+    color: #6a8466;
+    text-align: center;
+    margin-left: 500px;
+    margin-right: 500px;
+}
+.login{
+    text-align: center;
+    background-color: #393c59;
+    margin-left: 500px;
+    margin-right: 500px;
+}
+input{
+    background-color:#8f98df ;
+}
+label{
+    color: #8f98df;
+}
+button{
+    background-color:#8f98df ;
+    color: #393c59;
+    border-color: #393c59;
+}
+.lista{
+    background-color: #1f811f;
+    color: #812c1f;
+    text-align: center;
+    margin-left: 500px;
+    margin-right: 500px;
+}
+.carros{
+    background-color: #66e1ee;
+    color: #295b5a;
+    text-align: center;
+    margin-left: 500px;
+    margin-right: 500px;
+}
+.pch{
+    background-color: #5b294e;
+    color: #e36bc3;
+    text-align: center;
+    margin-left: 500px;
+    margin-right: 500px;
+}
+.cidade{
+    background-color: #703131;
+    color: #f96262;
+    text-align: center;
+    margin-left: 500px;
+    margin-right: 500px;
+}
+p{
+    background-color: #e8da21;
+    color: #3a360b;
+}
